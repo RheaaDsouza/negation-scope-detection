@@ -1,1 +1,1 @@
-# negation-scope-detection
+Text mining assignments at VU for Negation scope detection.
